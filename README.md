@@ -2,9 +2,9 @@
 
 My name is **Habibie**, I'm a Flutter developer based in Surabaya, Indonesia.
 
-🌱 I'm currently learning backend mostly using Javascript
-🔭 I'm a crypto and Web3 enthusiast
-📫 How to reach me: [Telegram](https://t.me/Oxb3e)
+- 🌱 I'm currently learning backend mostly using Javascript
+- 🔭 I'm a crypto and Web3 enthusiast
+- 📫 How to reach me: [Telegram](https://t.me/Oxb3e)
 
 <!--
 **mrhabibie/mrhabibie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
