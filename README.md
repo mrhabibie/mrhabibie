@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-My name is **Habibie**, I'm a Flutter developer based in Surabaya, Indonesia.
+My name is **Habibie**, I'm a Fullstack Developer based in Surabaya, Indonesia.
 
-- 🌱 I'm currently learning backend mostly using Javascript
+- 🔭 I’m currently working on Web3 Hackathon project
+- 💬 Ask me about Flutter and backend development things
 - 🔭 I'm a crypto and Web3 enthusiast
 - 📫 How to reach me: [Telegram](https://t.me/Oxb3e)
 
