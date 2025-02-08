@@ -2,9 +2,10 @@
 
 My name is **Habibie**, I'm a Fullstack Developer based in Surabaya, Indonesia.
 
-- 🔭 I’m currently working on Web3 Hackathon project
-- 💬 Ask me about Flutter and backend development things
-- 🔭 I'm a crypto and Web3 enthusiast
+- 🌱 I'm a crypto and Web3 enthusiast
+- 🔭 I’m currently working on ERP for logistic company using NextJS and NestJS
+- 👯 I’m looking to collaborate on building robust and scalable applications
+- 💬 Ask me about NextJS, NestJS and Flutter
 - 📫 How to reach me: [Telegram](https://t.me/Oxb3e)
 
 <!--
