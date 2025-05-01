@@ -6,7 +6,7 @@ My name is **Habibie**, I'm a Fullstack Developer based in Surabaya, Indonesia.
 - 🔭 I’m currently working on ERP for logistic company using NextJS and NestJS
 - 👯 I’m looking to collaborate on building robust and scalable applications
 - 💬 Ask me about NextJS, NestJS and Flutter
-- 📫 How to reach me: [Telegram](https://t.me/Oxb3e)
+- 📫 How to reach me: [Telegram](https://t.me/mrhabibie)
 
 <!--
 **mrhabibie/mrhabibie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
