@@ -3,9 +3,9 @@
 My name is **Habibie**, I'm a Fullstack Developer based in Surabaya, Indonesia.
 
 - 🌱 I'm a crypto and Web3 enthusiast
-- 🔭 I’m currently working on ERP for logistic company using NextJS and NestJS
+- 🔭 I’m currently working on SIMRS for two RSUD in Surabaya using some PHP framework
 - 👯 I’m looking to collaborate on building robust and scalable applications
-- 💬 Ask me about NextJS, NestJS and Flutter
+- 💬 Ask me about NestJS, PHP and Flutter
 - 📫 How to reach me: [Telegram](https://t.me/mrhabibie)
 
 <!--
